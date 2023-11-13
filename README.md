@@ -64,6 +64,7 @@ Other: Draw.IO, Figma, GitHub, Visual Studio Code
 
 ### R3 - Application Architecture Diagram
 
+![AAD DIAGRAM](./AAD.drawio.png)
 
 ### R4 - User Stories
 
