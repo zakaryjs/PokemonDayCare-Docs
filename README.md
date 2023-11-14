@@ -57,7 +57,7 @@ Testing: Jest, Cypress
 
 Project Management: Trello
 
-Other: Draw.IO, Figma, GitHub, Visual Studio Code
+Other: Draw.io, Figma, GitHub, Visual Studio Code
 
 ### R2 - Dataflow Diagram
 
@@ -69,6 +69,8 @@ Other: Draw.IO, Figma, GitHub, Visual Studio Code
 
 ### R4 - User Stories
 
+#### <u>Trainers</u>
+
 ![Ace Trainer Tom](./Ace%20Trainer%20Tom%20User%20Story.png)
 
 ![Youngster Joey](./Youngster%20Joey%20User%20Story.png)
@@ -79,6 +81,13 @@ Other: Draw.IO, Figma, GitHub, Visual Studio Code
 
 ![Poke Maniac Steve](./Poke%20Maniac%20Steve.png)
 
+![Fisherman Carl](./Fisherman%20Carl%20User%20Story.png)
+
+#### <u>Daycare Owners</u>
+
+![Day Care Couple Grant and Martha](./Day%20Care%20Couple%20Grant%20and%20Martha.png)
+
+![Nursery Aide Lia](./Nursery%20Aide%20Lia.png)
 
 ### R5 - Wireframes
 
