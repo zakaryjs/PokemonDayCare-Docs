@@ -20,20 +20,49 @@ This app can be used by both daycare owners and trainers:
 
 Trainers:
 
+Trainers can use the Day Care website to create appointments for their Pokemon. In these appointments, trainers can: 
+
 - Can set drop off and pick-up times for the Pokemon they want to send to the daycare.
 
+This will allow trainers to plan ahead. Knowing that their spot is secured can take the stress off of the trainer, as they now know that they have a place for their Pokemon to go.
+
 - Can select the type of the appointment: training, breeding, etc.
+
+This will allow the trainers to outline what the purpose of the Day Care appointment is, allowing the Day Care owners to prepare properly for the appointment.
+
 - Can select the Pokemon they would like to drop off - include details like nickname, gender, etc.
+
+Trainers will first add their Pokemon to the website, and establish important details such as their nickname, gender, weight, height, and any other important details that there are to be considered.
+
 - Can see Pokemon they currently have in the daycare
+
+Trainers will be able to view all currently active, and upcoming appointments.
+
 (Maybe): - See updates posted by the daycare owner about how their pokemon is doing. Is there an egg? Etc.
+
+This will allow trainers to feel more connected with their Pokemon while they are away.
 
 Daycare Owners: (admin)
 
 - Can view all currently booked appointments
+
+This will allow the Day Care owners to prepare properly for any given day.
+
 - Can view details about the booked Pokemon
+
+Knowing of any special details or requirements is important, and this feature allows the Day Care owners to do that.
+
 - Can cancel appointments
+
+Being able to cancel - if the Day Care owners deem the appointment to be inappropriate, any hassle can be avoided with this feature.
+
 - Can update appointments
+
+- At the request of a trainer, or at their own discretion, the Day Care owners will be able to update any details of the appointment, as required.
+
 (Maybe): - Post updates about how a Pokemon is doing.
+
+- This will ensure that trainers feel at ease about their Pokemon being at the Day Care.
 
 #### Target Audience
 
