@@ -61,6 +61,7 @@ Other: Draw.IO, Figma, GitHub, Visual Studio Code
 
 ### R2 - Dataflow Diagram
 
+![DFD DIAGRAM](./DFD.drawio.png)
 
 ### R3 - Application Architecture Diagram
 
