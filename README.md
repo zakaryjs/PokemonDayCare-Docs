@@ -69,6 +69,16 @@ Other: Draw.IO, Figma, GitHub, Visual Studio Code
 
 ### R4 - User Stories
 
+![Ace Trainer Tom](./Ace%20Trainer%20Tom%20User%20Story.png)
+
+![Youngster Joey](./Youngster%20Joey%20User%20Story.png)
+
+![Office Worker Trisha](./Office%20Worker%20Trisha%20User%20Story.png)
+
+![Madame Rebecca](./Madame%20Rebecca%20User%20Story.png)
+
+![Poke Maniac Steve](./Poke%20Maniac%20Steve.png)
+
 
 ### R5 - Wireframes
 
