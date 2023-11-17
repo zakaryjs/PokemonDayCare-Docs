@@ -120,5 +120,6 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 
 ### R5 - Wireframes
 
+[Link to wireframes](https://www.figma.com/file/8kr6b62xQQqS0WMp4OFXzH/Pokemon-Day-Care-Wireframes?type=design&node-id=0%3A1&mode=design&t=XrqvTIykM2bgoXxX-1)
 
 ### R6 - Trello Screenshots
