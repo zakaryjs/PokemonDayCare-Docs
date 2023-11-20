@@ -127,3 +127,12 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 [Wireframe PDF](./Pokemon%20Day%20Care%20Wireframes.pdf)
 
 ### R6 - Trello Screenshots
+#### [Trello Link](https://trello.com/b/Ddg1XJ34/t3a2-full-stack-app)
+
+
+#### 13th November - Initial Creation of Trello
+![13th November](./TRELLO/2023-11-13%2013-04-36.png)
+#### 14th November - Progress Update
+![14th November](./TRELLO/2023-11-14%2016-02-58.png)
+#### 20th November - Progress Update and began adding frontend and backend tasks
+![20th November](./TRELLO/Screenshot%20from%202023-11-20%2014-36-09.png)
