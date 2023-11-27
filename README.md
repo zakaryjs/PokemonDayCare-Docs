@@ -102,23 +102,43 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 
 #### <u>Trainers</u>
 
-![Ace Trainer Tom](./Ace%20Trainer%20Tom%20User%20Story.png)
+![Ace Trainer Tom](./User%20Stories/Ace%20Trainer%20Tom%20User%20Story.png)
 
-![Youngster Joey](./Youngster%20Joey%20User%20Story.png)
+![Youngster Joey](./User%20Stories/Youngster%20Joey%20User%20Story.png)
 
-![Office Worker Trisha](./Office%20Worker%20Trisha%20User%20Story.png)
+![Office Worker Trisha](./User%20Stories/Office%20Worker%20Trisha%20User%20Story.png)
 
-![Madame Rebecca](./Madame%20Rebecca%20User%20Story.png)
+![Madame Rebecca](./User%20Stories/Madame%20Rebecca%20User%20Story.png)
 
-![Poke Maniac Steve](./Poke%20Maniac%20Steve.png)
+![Poke Maniac Steve](./User%20Stories/Poke%20Maniac%20Steve.png)
 
-![Fisherman Carl](./Fisherman%20Carl%20User%20Story.png)
+![Fisherman Carl](./User%20Stories/Fisherman%20Carl%20User%20Story.png)
 
 #### <u>Daycare Owners</u>
 
-![Day Care Couple Grant and Martha](./Day%20Care%20Couple%20Grant%20and%20Martha.png)
+![Day Care Couple Grant and Martha](./User%20Stories/Day%20Care%20Couple%20Grant%20and%20Martha.png)
 
-![Nursery Aide Lia](./Nursery%20Aide%20Lia.png)
+![Nursery Aide Lia](./User%20Stories/Nursery%20Aide%20Lia.png)
+
+#### R4.5 - Revised User Stories
+
+![Ace Trainer Tom](./Revised%20User%20Stories/Ace%20Trainer%20Tom%20Revised.png)
+
+![Youngster Joey](./Revised%20User%20Stories/Youngster%20Joey%20Revised.png)
+
+![Office Worker Trisha](./Revised%20User%20Stories/Office%20Worker%20Trisha%20Revised.png)
+
+![Madame Rebecca](./Revised%20User%20Stories/Madame%20Rebecca%20Revised.png)
+
+![Poke Maniac Steve](./Revised%20User%20Stories/Poke%20Maniac%20Steve%20Revised.png)
+
+![Fisherman Carl](./Revised%20User%20Stories/Fisherman%20Carl%20Revised.png)
+
+#### <u>Daycare Owners</u>
+
+![Day Care Couple Grant and Martha](./Revised%20User%20Stories/Day%20Care%20Couple%20Grant%20and%20Martha%20Revised.png)
+
+![Nursery Aide Lia](./Revised%20User%20Stories/Nursery%20Aide%20Lia%20Revised.png)
 
 ### R5 - Wireframes
 
