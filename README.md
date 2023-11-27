@@ -136,3 +136,5 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 ![14th November](./TRELLO/2023-11-14%2016-02-58.png)
 #### 20th November - Progress Update and began adding frontend and backend tasks
 ![20th November](./TRELLO/Screenshot%20from%202023-11-20%2014-36-09.png)
+#### 27th November - Trello Board at end of planning phase
+![27th November](./TRELLO/Screenshot%20from%202023-11-27%2013-53-26.png)
