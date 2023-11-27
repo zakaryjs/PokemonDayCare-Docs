@@ -1,4 +1,4 @@
-# Pokemon Day Care Application 
+![Site Logo](./Zak-Logo-BG-removed.png)
 
 ### R1 - Description of Website
 
