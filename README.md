@@ -148,6 +148,10 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 
 [Updated Wireframe PDF](./Pokemon%20Day%20Care%20Wireframes.pdf)
 
+![Mobile Screenshots](./Wireframe-Screenshots/mobile-overview.png)
+![Tablet Screenshots](./Wireframe-Screenshots/tablet-overview.png)
+![Desktop Screenshots](./Wireframe-Screenshots/desktop-overview.png)
+
 ### R6 - Trello Screenshots
 #### [Trello Link](https://trello.com/b/Ddg1XJ34/t3a2-full-stack-app)
 
