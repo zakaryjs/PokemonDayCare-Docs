@@ -88,6 +88,18 @@ Project Management: Trello
 
 Other: Draw.io, Figma, GitHub, Visual Studio Code
 
+#### Project Planning
+
+I decided to complete the project in the following order:
+
+- Planning 
+
+- Backend
+
+- Frontend
+
+Though, I did not set any specific deadlines in the case that I finished one part earlier than expected, and wanted to continue on with the project.
+
 ### R2 - Dataflow Diagram
 
 ![DFD DIAGRAM](./NEWDFD.drawio.png)
@@ -122,6 +134,8 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 
 #### R4.5 - Revised User Stories
 
+These user stories were revised to include more detail, and to remove mentions of adding photo status updates of Pokemon for trainers. This was done to ensure that the project would be able to be completed on time.
+
 ![Ace Trainer Tom](./Revised%20User%20Stories/Ace%20Trainer%20Tom%20Revised.png)
 
 ![Youngster Joey](./Revised%20User%20Stories/Youngster%20Joey%20Revised.png)
@@ -147,6 +161,8 @@ Other: Draw.io, Figma, GitHub, Visual Studio Code
 [Draft Wireframe PDF](./Draft%20Pokemon%20Day%20Care%20Wireframes.pdf)
 
 [Updated Wireframe PDF](./Pokemon%20Day%20Care%20Wireframes.pdf)
+
+![Mobile Screenshots with Flow](./Wireframe-Screenshots/mobile-overview-with-flow.png)
 
 ![Mobile Screenshots](./Wireframe-Screenshots/mobile-overview.png)
 ![Tablet Screenshots](./Wireframe-Screenshots/tablet-overview.png)
