@@ -164,7 +164,10 @@ These user stories were revised to include more detail, and to remove mentions o
 
 ![Mobile Screenshots with Flow](./Wireframe-Screenshots/mobile-overview-with-flow.png)
 
-![Mobile Screenshots](./Wireframe-Screenshots/mobile-overview.png)
+![Mobile Screenshots](./Wireframe-Screenshots/mobile1.png)
+![Mobile Screenshots](./Wireframe-Screenshots/mobile2.png)
+![Mobile Screenshots](./Wireframe-Screenshots/mobile3.png)
+![Mobile Screenshots](./Wireframe-Screenshots/mobile4.png)
 ![Tablet Screenshots](./Wireframe-Screenshots/tablet-overview.png)
 ![Desktop Screenshots](./Wireframe-Screenshots/desktop-overview.png)
 
