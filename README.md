@@ -1,5 +1,7 @@
 ![Site Logo](./Zak-Logo-BG-removed.png)
 
+Logo credit to my good friend, [Lochy.](https://www.linkedin.com/in/lochlyn-thomas-045b55289/)
+
 ### R1 - Description of Website
 
 #### Purpose
